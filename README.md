@@ -37,11 +37,21 @@ The following skills were incoporated,
 -filters
 
 ## Visualization
-The report comprises of two pages
-1. Highlight of page 1 is the top 3 Performing countries and products
-2. Highlight of page 2 is Nigeria's Performance
+The report comprises of two pages.
 
 ![](https://github.com/Enengbede/Global-Superstores-Sales-Report/blob/main/Global%20Superstores_Page%201.png)
 
-   
+Page 1 highlights top 3 countries and products with the highest profits, top perfoming cities in USA  and the least performing product subcategory in Sotheast Asia.
 
+![](https://github.com/Enengbede/Global-Superstores-Sales-Report/blob/main/Global%20Superstores_Page2.png)   
+Page 2 highlights Nigeria's Performance and the top customers and what they purchase.
+
+## Analysis
+- In the year 2014, a total profit of $504,166 was generated with USA, India and China being the top 3 countries with the highest profit.
+- The sub-category **Tables** was the least profitable in Southeast Asia with Indonesia incurring the highest loss for this sub-category from 2012 t0 2014.
+- In 2014, orders from Nigeria incured the highest loss, $23,285.19 compared to other African countries.
+- Across the three different segments of customers, **office supplies** was the most purchased product category, however across the top 5 customers, **technology** was the most purchased category.
+
+## Conclusion and Recommendation
+- A reduction in shipping cost to Nigeria might encourage more orders from Nigeria.
+- Global Superstores to reconsider the sales of **Tables** in Indonesia.
