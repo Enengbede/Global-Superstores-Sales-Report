@@ -41,6 +41,7 @@ The report comprises of two pages
 1. Highlight of page 1 is the top 3 Performing countries and products
 2. Highlight of page 2 is Nigeria's Performance
 
-![]()
+![](https://github.com/Enengbede/Global-Superstores-Sales-Report/blob/main/Global%20Superstores_Page%201.png)
+
    
 
