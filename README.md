@@ -32,12 +32,14 @@ Who are the most valuable customers and what do they purchase?
 
 ## Skills/Concept Demonstrated
 The following skills were incoporated, 
--quick measure, 
+-Power query, 
 -DAX, 
 -filters
 
 ## Visualization
-The report comprises of two pages.
+The report comprises of two pages. 
+Interact with report here (https://github.com/Enengbede/Project/blob/main/Global%20Superstore%20Sales%20Report.pbix).
+
 
 ![](https://github.com/Enengbede/Global-Superstores-Sales-Report/blob/main/Global%20Superstores_Page%201.png)
 
